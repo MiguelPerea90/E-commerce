@@ -1,0 +1,58 @@
+:root {
+    --fontParragraf: 'Poiret One', cursive;
+    --fontHeading: 'Varela Round', sans-serif;
+    --clrBlack: #000;
+    --clrWhite: #fff;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--fontHeading);
+    /* color: var(--clrBlack); */
+    font-size: 60px;
+    font-weight: 500;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--clrBlack);
+    font-weight: 600;
+}
+body {
+    font-family: var(--fontParragraf);
+    color: var(--clrBlack);
+}
+.header {
+    /* background-color: aqua; */
+    padding: 2rem 10rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* .nav {
+    background-color: blue;
+    
+}  */
+.carrito {
+    background-color: aquamarine;
+    width: 50px;
+    height: 100px;
+}
+.nav ul {
+    display: flex;
+    gap: 2rem;
+}
+.jmp {
+    font-style: italic;
+}
