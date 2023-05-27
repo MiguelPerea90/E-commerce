@@ -581,7 +581,7 @@ li {
     margin: 0 auto;
  }
 
- .main-shop .containerProductos {
+ /* .main-shop .containerProductos {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
