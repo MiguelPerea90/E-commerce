@@ -575,45 +575,44 @@ li {
 
 
  /*Shop*/
-.main-shop .contenedor-roductos {
-    /* background-color: aqua; */
-    width: min(90vw, 1200px);
+.main-shop .contenedor-productos {
+    width: min(90vw, 1250px);
     height: auto;
     margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 2rem;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
 }
-.main-shop .contenedor-roductos .product{
-    /* background-color: red; */
-    max-width: 270px;
-    height: 400px;
+@media (max-width: 1300px) {
+    .main-shop .contenedor-productos {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 920px) {
+    .main-shop .contenedor-productos {
+        grid-template-columns:  1fr;
+    }
+}
+.main-shop .contenedor-productos .product{
+    height: 478px;
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 1.5rem;
 } 
-.main-shop .contenedor-roductos .product .container-img{
-    /* background-color: green; */
-    width: 100%;
-    height: 220px;
+.main-shop .contenedor-productos .product .container-img{
+    width: 402px;
+    height: 402px;
+    box-shadow: 0 0 3rem -1rem rgba(0, 0, 0, .25);
 } 
-.main-shop .contenedor-roductos .product .container-img img{
+.main-shop .contenedor-productos .product .container-img img{
     width: 100%;
     height: 100%;
 } 
-.main-shop .contenedor-roductos .product .product-detail{
-    /* background-color: yellowgreen; */
-    width: 100%;
-    height: 180px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-} 
-.main-shop .contenedor-roductos .product .product-detail .container-title, .container-price{
-    height: 50%;
-} 
-.main-shop .contenedor-roductos .product .product-detail .container-title h5{
+.main-shop .contenedor-productos .product .product-detail{
+    width: 402px;
+    height: 76px;
     overflow: hidden;
 } 
+.main-shop .contenedor-productos .product .product-detail .product-precio{
+    margin-top: -.5rem;
+}
