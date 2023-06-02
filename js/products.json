@@ -35,7 +35,7 @@
         "image": "https://m.media-amazon.com/images/I/61dEodVNrnL._AC_SX425_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":75
     },
@@ -55,7 +55,7 @@
         "image": "https://m.media-amazon.com/images/I/51CQKnZQNwL._AC_SX425_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":109
     },
@@ -95,7 +95,7 @@
         "image": "https://m.media-amazon.com/images/I/71rAUzBK3qL._AC_SX425_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":300
     },
@@ -105,7 +105,7 @@
         "image": "https://m.media-amazon.com/images/I/61xtfXvaVwL._AC_SL1500_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":380
     },
@@ -146,7 +146,7 @@
         "image": "https://m.media-amazon.com/images/I/41tvyH8rCrL._AC_SL1500_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":170
     },
@@ -186,7 +186,7 @@
         "image": "https://m.media-amazon.com/images/I/91E4kedAJKL._AC_SX425_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":2446
     },
@@ -216,7 +216,7 @@
         "image": "https://m.media-amazon.com/images/I/81Ia0bPUIOL._AC_SL1500_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":185
     },
@@ -266,7 +266,7 @@
         "image": "https://m.media-amazon.com/images/I/81WJ5dYzniL._AC_SL1500_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":1200
     },
@@ -276,7 +276,7 @@
         "image": "https://m.media-amazon.com/images/I/417Ru3ZJlpL._AC_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":2495
     }, 
@@ -286,7 +286,7 @@
         "image": "https://m.media-amazon.com/images/I/41F8sLOImKL._AC_SL1500_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":287
     },
@@ -316,7 +316,7 @@
         "image": "https://m.media-amazon.com/images/I/71W+KPt-RJL._AC_SX425_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":79
     },
@@ -346,18 +346,18 @@
         "image": "https://m.media-amazon.com/images/I/614JX5ZYZkL._AC_SX425_.jpg",
         "category": {
            "name":  "Baneras",
-            "id": "baneras"
+            "id": "bañeras"
         },
         "price":84
     },
     {
-        "id": "bañera-10",
-        "title": "Kohler Baño de té para dos",
-        "image": "https://m.media-amazon.com/images/I/41F8sLOImKL._AC_SL1500_.jpg",
+        "id": "mueble-11",
+        "title": "Melamina, Nórdik, Grande",
+        "image": "https://m.media-amazon.com/images/I/61ekQIy3MIL._AC_SL1024_.jpg",
         "category": {
-           "name":  "Baneras",
-            "id": "baneras"
+           "name":  "Muebles",
+            "id": "muebles"
         },
-        "price":287
+        "price":119
     }
 ]
