@@ -1,23 +1,13 @@
 [
     {
-        "id": "lavabo-01",
-        "title": "Granito ",
-        "image": "https://m.media-amazon.com/images/I/71Q0tBPv+iL._AC_SL1500_.jpg",
+        "id": "mueble-6",
+        "title": "Conjunto Mueble baño 140 cm",
+        "image": "https://m.media-amazon.com/images/I/61+lJ9Ck1UL._AC_SL1500_.jpg",
         "category": {
-            "name": "Lavabos",
-            "id": "lavabos"
+            "name": "Muebles",
+            "id": "muebles"
         },
-        "price": 239
-    },
-    {
-        "id": "lavabo-02",
-        "title": "Hormigón",
-        "image": "https://m.media-amazon.com/images/I/618niMfhjuL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Lavabos",
-            "id": "lavabos"
-        },
-        "price":34
+        "price":778
     },
     {
         "id": "lavabo-03",
@@ -30,6 +20,26 @@
         "price":79
     },
     {
+        "id": "mueble-4",
+        "title": "Mueble baño 85 cm con Lavabo 100% montado de fábrica ",
+        "image": "https://m.media-amazon.com/images/I/51IlNidBAZL._AC_SL1500_.jpg",
+        "category": {
+            "name": "Muebles",
+            "id": "muebles"
+        },
+        "price":402
+    }, 
+    {
+        "id": "bañera-3",
+        "title": "Bañera de hielo para adultos",
+        "image": "https://m.media-amazon.com/images/I/61dEodVNrnL._AC_SX425_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":75
+    },
+    {
         "id": "lavabo-04",
         "title": "Milán",
         "image": "https://www.wanda-collection.com/ar-lavabo-sobre-encimera-cuarto-de-bano-milan-rectangulo-30-x-40-cm-negro-924.jpg",
@@ -40,14 +50,14 @@
         "price":189
     },
     {
-        "id": "lavabo-05",
-        "title": "Charme",
-        "image": "https://www.arrelart.com/9610-large_default/lavabo-exclusivo-de-piedra-natural-charme.jpg",
+        "id": "bañera-4",
+        "title": "Bañera plegable portátil",
+        "image": "https://m.media-amazon.com/images/I/51CQKnZQNwL._AC_SX425_.jpg",
         "category": {
-            "name": "Lavabos",
-            "id": "lavabos"
+           "name":  "Baneras",
+            "id": "baneras"
         },
-        "price":225
+        "price":109
     },
     {
         "id": "lavabo-06",
@@ -80,12 +90,133 @@
         "price":275
     },
     {
-        "id": "lavabo-09",
-        "title": "Piedra natural lenny",
-        "image": "https://www.arrelart.com/6003-large_default/lavabo-tratado-de-piedra-natural-lenny.jpg",
+        "id": "bañera-6",
+        "title": "Bañera independiente de acrílico",
+        "image": "https://m.media-amazon.com/images/I/71rAUzBK3qL._AC_SX425_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":300
+    },
+    {
+        "id": "bañera-8",
+        "title": "Empava Bañera de lujo",
+        "image": "https://m.media-amazon.com/images/I/61xtfXvaVwL._AC_SL1500_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":380
+    },
+    {
+        "id": "mueble-3",
+        "title": "Mueble baño 120 cm con Lavabo",
+        "image": "https://m.media-amazon.com/images/I/516War5MV8L._AC_SL1500_.jpg",
+        "category": {
+            "name": "Muebles",
+            "id": "muebles"
+        },
+        "price":576
+    }, 
+    {
+        "id": "lavabo-02",
+        "title": "Hormigón",
+        "image": "https://m.media-amazon.com/images/I/618niMfhjuL._AC_SL1500_.jpg",
         "category": {
             "name": "Lavabos",
             "id": "lavabos"
+        },
+        "price":34
+    },
+    {
+        "id": "mueble-12",
+        "title": "Mueble baño 120 cm con Lavabo",
+        "image": "https://m.media-amazon.com/images/I/71fhLZsU22L._AC_SL1500_.jpg",
+        "category": {
+            "name": "Muebles",
+            "id": "muebles"
+        },
+      
+        "price":577
+    },
+    {
+        "id": "bañera-9",
+        "title": "KOHLER Stargaze",
+        "image": "https://m.media-amazon.com/images/I/41tvyH8rCrL._AC_SL1500_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":170
+    },
+    {
+        "id": "mueble-2",
+        "title": "Mueble de baño 40 cm con lavabo",
+        "image": "https://m.media-amazon.com/images/I/61JxvRHVP4L._AC_SL1500_.jpg",
+        "category": {
+            "name": "Muebles",
+            "id": "muebles"
+        },
+        "price":153
+    },
+    {
+        "id": "mueble-7",
+        "title": "Mueble baño 100 cm",
+        "image": "https://m.media-amazon.com/images/I/514Ejin7sZL._AC_SL1500_.jpg",
+        "category": {
+            "name": "Muebles",
+            "id": "muebles"
+        },
+        "price":358
+    }, 
+    {
+        "id": "lavabo-12",
+        "title": "Rectangular",
+        "image": "https://b096bp98.tinifycdn.com/186635-thickbox_default/lavabo-de-sobre-encimera-rectangular-negro-45x30x12-cm-vidaxl.jpg?resize.width=712",
+        "category": {
+            "name": "Lavabos",
+            "id": "lavabos"
+        },
+        "price":115
+    },
+    {
+        "id": "bañera-2",
+        "title": "Spa World Venzi - hidromasaje",
+        "image": "https://m.media-amazon.com/images/I/91E4kedAJKL._AC_SX425_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":2446
+    },
+    {
+        "id": "mueble-8",
+        "title": "Mueble baño 60 cm",
+        "image": "https://m.media-amazon.com/images/I/61GFxikWMXL._AC_SL1500_.jpg",
+        "category": {
+            "name": "Muebles",
+            "id": "muebles"
+        },
+        "price":309
+    }, 
+    {
+        "id": "lavabo-01",
+        "title": "Granito ",
+        "image": "https://m.media-amazon.com/images/I/71Q0tBPv+iL._AC_SL1500_.jpg",
+        "category": {
+            "name": "Lavabos",
+            "id": "lavabos"
+        },
+        "price": 239
+    },
+    {
+        "id": "bañera-1",
+        "title": "WOODBRIDGE",
+        "image": "https://m.media-amazon.com/images/I/81Ia0bPUIOL._AC_SL1500_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
         },
         "price":185
     },
@@ -110,208 +241,6 @@
         "price":115
     },
     {
-        "id": "lavabo-12",
-        "title": "Rectangular",
-        "image": "https://b096bp98.tinifycdn.com/186635-thickbox_default/lavabo-de-sobre-encimera-rectangular-negro-45x30x12-cm-vidaxl.jpg?resize.width=712",
-        "category": {
-            "name": "Lavabos",
-            "id": "lavabos"
-        },
-        "price":115
-    },
-    {
-        "id": "bañera-1",
-        "title": "WOODBRIDGE",
-        "image": "https://m.media-amazon.com/images/I/81Ia0bPUIOL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":185
-    },
-    {
-        "id": "bañera-2",
-        "title": "Spa World Venzi - hidromasaje",
-        "image": "https://m.media-amazon.com/images/I/91E4kedAJKL._AC_SX425_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":2446
-    },
-    {
-        "id": "bañera-3",
-        "title": "Bañera de hielo para adultos",
-        "image": "https://m.media-amazon.com/images/I/61dEodVNrnL._AC_SX425_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":75
-    },
-    {
-        "id": "bañera-4",
-        "title": "Bañera plegable portátil",
-        "image": "https://m.media-amazon.com/images/I/51CQKnZQNwL._AC_SX425_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":109
-    },
-    {
-        "id": "bañera-5",
-        "title": "AellerSen plegable para adultos,",
-        "image": "https://m.media-amazon.com/images/I/614JX5ZYZkL._AC_SX425_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":84
-    },
-    {
-        "id": "bañera-6",
-        "title": "Bañera independiente de acrílico",
-        "image": "https://m.media-amazon.com/images/I/71rAUzBK3qL._AC_SX425_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":300
-    },
-    {
-        "id": "bañera-7",
-        "title": "SEAAN Bañera portátil para adultos",
-        "image": "https://m.media-amazon.com/images/I/71W+KPt-RJL._AC_SX425_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":79
-    },
-    {
-        "id": "bañera-8",
-        "title": "Empava Bañera de lujo",
-        "image": "https://m.media-amazon.com/images/I/61xtfXvaVwL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":380
-    },
-    {
-        "id": "bañera-9",
-        "title": "KOHLER Stargaze",
-        "image": "https://m.media-amazon.com/images/I/41tvyH8rCrL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":170
-    },
-    {
-        "id": "bañera-10",
-        "title": "Kohler Baño de té para dos",
-        "image": "https://m.media-amazon.com/images/I/41F8sLOImKL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":287
-    },
-    {
-        "id": "bañera-11",
-        "title": "Atlantis Whirlpools - hidromasaje",
-        "image": "https://m.media-amazon.com/images/I/81WJ5dYzniL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":1200
-    },
-    {
-        "id": "bañera-12",
-        "title": "Cetra - Bañera de hidromasaje",
-        "image": "https://m.media-amazon.com/images/I/417Ru3ZJlpL._AC_.jpg",
-        "category": {
-            "name": "Bañeras",
-            "id": "bañeras"
-        },
-        "price":2495
-    }, 
-    {
-        "id": "mueble-1",
-        "title": "Mueble baño 70 cm con Lavabo",
-        "image": "https://m.media-amazon.com/images/I/61aZZAHEs9L._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":284
-    }, {
-        "id": "mueble-2",
-        "title": "Mueble de baño 40 cm con lavabo",
-        "image": "https://m.media-amazon.com/images/I/61JxvRHVP4L._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":153
-    }, {
-        "id": "mueble-3",
-        "title": "Mueble baño 120 cm con Lavabo",
-        "image": "https://m.media-amazon.com/images/I/516War5MV8L._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":576
-    }, {
-        "id": "mueble-4",
-        "title": "Mueble baño 85 cm con Lavabo 100% montado de fábrica ",
-        "image": "https://m.media-amazon.com/images/I/51IlNidBAZL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":402
-    }, {
-        "id": "mueble-5",
-        "title": "Pilar suspendido mueble de baño",
-        "image": "https://m.media-amazon.com/images/I/41EnO17GxfL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":247
-    }, {
-        "id": "mueble-6",
-        "title": "Conjunto Mueble baño 140 cm",
-        "image": "https://m.media-amazon.com/images/I/61+lJ9Ck1UL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":778
-    }, {
-        "id": "mueble-7",
-        "title": "Mueble baño 100 cm",
-        "image": "https://m.media-amazon.com/images/I/514Ejin7sZL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":358
-    }, {
-        "id": "mueble-8",
-        "title": "Mueble baño 60 cm",
-        "image": "https://m.media-amazon.com/images/I/61GFxikWMXL._AC_SL1500_.jpg",
-        "category": {
-            "name": "Muebles",
-            "id": "muebles"
-        },
-        "price":309
-    }, {
         "id": "mueble-9",
         "title": "Mueble baño 80 cm con Lavabo",
         "image": "https://m.media-amazon.com/images/I/41jw0IIMIOL._AC_SL1500_.jpg",
@@ -330,23 +259,105 @@
             "id": "muebles"
         },
         "price":302
-    }, {
-        "id": "mueble-11",
-        "title": "Mueble baño 80 cm con Lavabo",
-        "image": "https://m.media-amazon.com/images/I/41NDGP5FaWL._AC_SL1500_.jpg",
+    },  
+    {
+        "id": "bañera-11",
+        "title": "Atlantis Whirlpools - hidromasaje",
+        "image": "https://m.media-amazon.com/images/I/81WJ5dYzniL._AC_SL1500_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":1200
+    },
+    {
+        "id": "bañera-12",
+        "title": "Cetra - Bañera de hidromasaje",
+        "image": "https://m.media-amazon.com/images/I/417Ru3ZJlpL._AC_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":2495
+    }, 
+    {
+        "id": "bañera-10",
+        "title": "Kohler Baño de té para dos",
+        "image": "https://m.media-amazon.com/images/I/41F8sLOImKL._AC_SL1500_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":287
+    },
+    {
+        "id": "mueble-1",
+        "title": "Mueble baño 70 cm con Lavabo",
+        "image": "https://m.media-amazon.com/images/I/61aZZAHEs9L._AC_SL1500_.jpg",
+        "category": {
+            "name": "Muebles",
+            "id": "muebles"
+        },
+        "price":284
+    },
+    {
+        "id": "lavabo-05",
+        "title": "Charme",
+        "image": "https://www.arrelart.com/9610-large_default/lavabo-exclusivo-de-piedra-natural-charme.jpg",
+        "category": {
+            "name": "Lavabos",
+            "id": "lavabos"
+        },
+        "price":225
+    },
+    {
+        "id": "bañera-7",
+        "title": "SEAAN Bañera portátil para adultos",
+        "image": "https://m.media-amazon.com/images/I/71W+KPt-RJL._AC_SX425_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":79
+    },
+    {
+        "id": "mueble-5",
+        "title": "Pilar suspendido mueble de baño",
+        "image": "https://m.media-amazon.com/images/I/41EnO17GxfL._AC_SL1500_.jpg",
         "category": {
             "name": "Muebles",
             "id": "muebles"
         },
         "price":247
-    }, {
-        "id": "mueble-12",
-        "title": "Mueble baño 120 cm con Lavabo",
-        "image": "https://m.media-amazon.com/images/I/71fhLZsU22L._AC_SL1500_.jpg",
+    },
+    {
+        "id": "lavabo-09",
+        "title": "Piedra natural lenny",
+        "image": "https://www.arrelart.com/6003-large_default/lavabo-tratado-de-piedra-natural-lenny.jpg",
         "category": {
-            "name": "Muebles",
-            "id": "muebles"
+            "name": "Lavabos",
+            "id": "lavabos"
         },
-        "price":577
-    } 
+        "price":185
+    },
+    {
+        "id": "bañera-5",
+        "title": "AellerSen plegable para adultos,",
+        "image": "https://m.media-amazon.com/images/I/614JX5ZYZkL._AC_SX425_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":84
+    },
+    {
+        "id": "bañera-10",
+        "title": "Kohler Baño de té para dos",
+        "image": "https://m.media-amazon.com/images/I/41F8sLOImKL._AC_SL1500_.jpg",
+        "category": {
+           "name":  "Baneras",
+            "id": "baneras"
+        },
+        "price":287
+    }
 ]

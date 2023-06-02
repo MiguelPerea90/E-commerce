@@ -6,11 +6,10 @@ fetch("./js/products.json")
         products = data;
 
         cargarProductos(products);
-        console.log(products);
 })
 
-
 const productsContainer = document.getElementById('products-container')
+const botonesCategorias = document.querySelectorAll(".botones-categorias")
 
 function cargarProductos() {
     products.forEach(product => {
@@ -37,18 +36,22 @@ function cargarProductos() {
 }
 cargarProductos()
 
-function Lavabos() {
-    fetch("./js/products.json")
-    .then(response => response.json())
-    .then(data => {
-        products = data;
+console.log(botonesCategorias)
+botonesCategorias.forEach(boton => {
+    boton.addEventListener("click", (e) => {
 
-    let categorias = products.filter(product => product.category.name === "Lavabos")
-    console.log("categoria", categorias)
+        botonesCategorias.forEach(boton => boton.classList.remove("active"));
+
+        e.target.classList.add("active")
+        
+    })
 })
-    
-}
-Lavabos()
+
+
+
+
+
+
 
 
 
