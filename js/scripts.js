@@ -414,8 +414,12 @@ botonesCategorias.forEach(boton => {
         e.target.classList.add("active")
 
         if(e.target.id !== "todos"){
+
+            //Titulo de las categorias
             const productoCategoria = products.find(product => product.category.id === e.target.id)
             tituloPrincipal.innerText = productoCategoria.category.name;
+
+
             const productosBoton = products.filter(product => product.category.id === e.target.id)
             cargarProductos(productosBoton);
         }else {
@@ -425,6 +429,7 @@ botonesCategorias.forEach(boton => {
         
     })
 })
+
 
 
 
