@@ -50,7 +50,7 @@ li {
 .underline {
     width: min(90vw, 1200px);
     margin: 0 auto;
-    margin-top: 10rem;
+    margin-top: 4rem;
     margin-bottom: 3rem;
 }
 .underline1 {
@@ -612,6 +612,8 @@ li {
     flex-direction: column;
     gap: 2rem;
     align-items: center;
+    padding-top: 4rem;
+    padding-bottom: 0;
  }
  .containertitleBotones {
     width: min(90vw, 1250px);
@@ -992,4 +994,50 @@ li {
     background-color: var(--clrBlack);
     color: var(--clrWhite);
     padding: 10px 30px;
+}
+/*Policy*/
+.main .policy-container {
+    width: min(90vw, 1250px);
+    margin: 0 auto;
+    padding-top: 5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+@media (max-width: 1300px) {
+    .main .policy-container {
+        width: 100vw;
+    } 
+}
+@media (max-width: 920px) {
+    .main .policy-container {
+        max-width: 380px;
+        align-items: center;
+        padding: 1rem;
+    } 
+}
+.main .policy-container .container-title{
+    max-width: 800px;
+   
+}
+.main .policy-container .container-title h1{
+    font-size: 43px;
+    font-weight: 300;
+    font-family: var(--fontHeading);
+   
+}
+@media (max-width: 920px) {
+    .main .policy-container .container-title h1{
+        font-size: 32px;
+       
+    }
+}
+.main .policy-container .container-text{
+    max-width: 800px;
+   
+}
+@media (max-width: 920px) {
+    .underline1 {
+        margin-top: 0;
+    } 
 }
